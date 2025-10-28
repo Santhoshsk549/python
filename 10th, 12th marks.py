@@ -1,0 +1,17 @@
+print("10th marks")
+print("Tamil : 85")
+print("English : 65")
+print("Maths : 65")
+print("Science : 75")
+print("Social Science : 55")
+print("Total mark: 345")
+
+
+print("12th marks")
+print("Tamil : 65")
+print("English : 55")
+print("Maths : 55")
+print("Biology : 75")
+print("Chemistry : 55")
+print("Physics : 70")
+print("Toatal mark : 375")
